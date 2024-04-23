@@ -8,12 +8,12 @@ Desarrollo de dos desafíos técnicos que forman parte del primer paso de la eva
 -contiene los dos desafíos técnicos ordenados con la siguiente estructura:
 
 # Desafio 1
- ### Plan de Pruebas
+ ### 1. Plan de Pruebas
     Auth
     Booking
     Ping
 
- ### Pruebas Automatizadas 
+ ### 2. Pruebas Automatizadas 
     . restful-booker
        -Auth
     . post_CreateToken
@@ -27,15 +27,16 @@ Desarrollo de dos desafíos técnicos que forman parte del primer paso de la eva
        -Ping
 	. Ping - HealthCheck
 
- ### herramientas y técnicas
+ ### 3. herramientas y técnicas
      Abrir documento HERRAMIENTAS Y TECNICAS UTILIZADAS.docx
 
 # Desafio 2
- ### Plan de Pruebas
+ ### 1. Plan de Pruebas
     Abrir documento PP_Booking.xlsx
     
- ### Automatización
-    . Booking
+ ### 2. Automatización
+    Nombre de archivo: Booking
+    Para visualizar pantallas con bloqueo por información confidencial, se deshabilita el switch Bloquear capturas de info confidencial ubicado en Ajustes de Configuración e información legal del Aplicativo.
 
- ### herramientas y técnicas
+ ### 3. herramientas y técnicas
     Abrir documento HERRAMIENTAS Y TECNICAS UTILIZADAS.docx
